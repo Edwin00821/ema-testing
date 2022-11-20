@@ -1,0 +1,15 @@
+export type { default as MCUaprendizaje } from './MCUaprendizaje';
+export type { default as MCEspecialidad } from './MCEspecialidad';
+export type { default as MCInteligencia } from './MCInteligencia';
+export type { default as MCSemestre } from './MCSemestre';
+export type { default as MESemEsp } from './MESemEsp';
+export type { default as MCSubtema } from './MCSubtema';
+export type { default as MCParcial } from './MCParcial';
+export type { default as MMMaterial } from './MMMaterial';
+export type { default as MCGenero } from './MCGenero';
+export type { default as MMPersona } from './MMPersona';
+export type { default as MCTema } from './MCTema';
+export type { default as MCRol } from './MCRol';
+export type { default as MDUser } from './MDUser';
+export type { default as MMAdmin } from './MMAdmin';
+export type { default as MMEstudiante } from './MMEstudiante';

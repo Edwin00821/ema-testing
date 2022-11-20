@@ -1,0 +1,15 @@
+export type { default as ICUaprendizaje } from './ICUaprendizaje';
+export type { default as ICEspecialidad } from './ICEspecialidad';
+export type { default as IESemEsp} from './IESemEsp';
+export type { default as ICInteligencia } from './ICInteligencia';
+export type { default as ICSemestre } from './ICSemestre';
+export type { default as IMMaterial } from './IMMaterial';
+export type { default as ICSubtema } from './ICSubtema';
+export type { default as ICParcial } from './ICParcial';
+export type { default as IMPersona } from './IMPersona';
+export type { default as ICGenero } from './ICGenero';
+export type { default as ICTema } from './ICTema';
+export type { default as ICRol } from './ICRol';
+export type { default as IDUser } from './IDUser';
+export type { default as IMAdmin } from './IMAdmin';
+export type { default as IMEstudiante } from './IMEstudiante';
